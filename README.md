@@ -8,7 +8,8 @@ an interesting code to rotate elements of an array as many places as you want.
 #include <limits.h>
 #include <stdbool.h>
 
-int main(){
+int main()
+{
     int n; 
     printf("enter number of elements of an array:\n");
     scanf("%d",&n);
@@ -35,7 +36,4 @@ int main(){
    	for(i=0;i<n;i++){
 	printf("%d",a[i]);
 	}
-	
-
-
 }
