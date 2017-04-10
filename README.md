@@ -1,5 +1,5 @@
-# ArrayRotation
-an interesting code to rotate elements of an array as many places as you want.
+// ArrayRotation
+//an interesting code to rotate elements of an array as many places as you want.
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
